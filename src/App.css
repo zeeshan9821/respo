@@ -1,0 +1,42 @@
+.searchbar{
+ width: 60%;
+  height: 100%;
+  float: right;
+  margin-right: 0px;
+}
+
+
+.name{
+  color: blue;
+  font-size: 20px;
+  text-align: left;
+  margin-left: 200px;
+}
+
+
+.search {
+  display: block;
+  width: 50%;
+  font-size: 20px;
+  padding: 10px 0.5rem;
+  border:solid #208eec 2px;
+  border-radius: 15px;
+   text-align: center;
+   color: blue;
+   position: top;
+   color:black;
+   margin-right: 400px;
+   float:right;
+   margin-top: 10px;
+  
+
+}
+
+
+
+.photo{
+ width: 30%;
+ height: 10%;
+ float: left;
+ border-radius: 40px;
+}
